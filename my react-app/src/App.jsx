@@ -1,6 +1,14 @@
-import React from 'react'
+//import ToDoList from './ToDoList.jsx';
+//import Resize from './Resize.jsx'
+//import Clock from './Clock.jsx'
+import Stopwatch  from './Stopwatch.jsx'
 
-const App = () => {
+function App ()  {
+ /* return  (<ToDoList/>) */
+//  return  (<Resize/>)
+ //return (<Clock/>)
+ return(<Stopwatch/>)
+ 
   
 }
 
